@@ -1,0 +1,12 @@
+* {
+  background-color: aqua;
+}
+
+h1 {
+  text-align: center;
+}
+
+li a {
+  display: block;
+  /* width: 60px; */
+}
