@@ -1,5 +1,5 @@
 * {
-  background-color: aqua;
+  /* background-color: aqua; */
 }
 
 h1 {
@@ -9,4 +9,8 @@ h1 {
 li a {
   display: block;
   /* width: 60px; */
+}
+
+body {
+  background: linear-gradient(90deg, #c7c5f4, #776bcc);
 }
